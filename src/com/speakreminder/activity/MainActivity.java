@@ -1,4 +1,6 @@
-package com.example.speakreminder;
+package com.speakreminder.activity;
+
+import com.speakreminder.R;
 
 import android.os.Bundle;
 import android.app.Activity;
