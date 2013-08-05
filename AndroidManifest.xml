@@ -22,6 +22,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.speakreminder.activity.InputActivity"
+            android:label="@string/new_reminder_title"/>
+        <activity android:name="com.speakreminder.activity.ListActivity"
+            android:label="@string/list_reminder_title"/>
     </application>
 
 </manifest>
